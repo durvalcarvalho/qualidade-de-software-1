@@ -1,11 +1,2 @@
-
-
-- Tópico 1
-  - Sub tópico 1.1
-  - Sub tópico 1.2
-
-
-- Tópico 2
-  - Sub tópico 2.1
-  - Sub tópico 2.2
-  - Sub tópico 2.3
+- [Software Testing and Quality Assurance](software-testing-and-quality-assurance-naik-tripathy/chapter-17.md)
+  - [Capítulo 17](software-testing-and-quality-assurance-naik-tripathy/chapter-17.md)
